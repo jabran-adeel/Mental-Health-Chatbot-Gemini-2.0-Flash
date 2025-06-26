@@ -1,4 +1,4 @@
-# 🧠 Mental Health Chatbot – Gemini API (Task 5)
+# 🧠 Mental Health Chatbot – Gemini API
 
 A simple and secure mental health chatbot powered by **Google Gemini 2.0 Flash**. It gives supportive, general responses to user input without offering diagnosis, therapy, or medical advice.
 
